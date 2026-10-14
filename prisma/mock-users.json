@@ -1,0 +1,47 @@
+[
+  {
+    "id": "usr-admin",
+    "email": "admin@novacart.test",
+    "name": "Admin",
+    "role": "ADMIN",
+    "emailVerified": true,
+    "passwordHash": "$2a$10$XP7fkJctCrTdYP1loKf.g.saUWAyOJD1Xeh8K7HND1LYntby59or6",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "usr-1791954437783-th41b",
+    "name": "Rahul Sharma",
+    "email": "shopper_1791954436228@gmail.com",
+    "passwordHash": "$2a$12$2UegLlQNY.ye/I4Bu5wWZ.8kJEMhssbkl2EqoO7pnIINuMLpoHOQm",
+    "role": "CUSTOMER",
+    "emailVerified": true,
+    "createdAt": "2026-10-14T05:07:17.783Z"
+  },
+  {
+    "id": "usr-1791955019325-orb19",
+    "name": "Jane Smith",
+    "email": "user_1791955016968@example.com",
+    "passwordHash": "$2a$12$neIZb3p1nHs2lwYISGFH3e766/GyToj68.lePrTGrRGp/v4AA5QwS",
+    "role": "CUSTOMER",
+    "emailVerified": true,
+    "createdAt": "2026-10-14T05:16:59.325Z"
+  },
+  {
+    "id": "usr-1791955936313-cccde",
+    "name": "vidhya",
+    "email": "vidhya@novacart.test",
+    "passwordHash": "$2a$12$MjbRraKEALr1ojfWvHu8O.nCIjoeNFkhzptC1V3WKqeQJy8qJuZxi",
+    "role": "CUSTOMER",
+    "emailVerified": true,
+    "createdAt": "2026-10-14T05:32:16.313Z"
+  },
+  {
+    "id": "usr-1791984120118-3r2fc",
+    "name": "salaimahaprasad",
+    "email": "maha@gmail.com",
+    "passwordHash": "$2a$12$YIGE.Q18Kb3xjU13yge9buPW6RFErhj4FYOnGTZfkhrtBO7mgYciK",
+    "role": "CUSTOMER",
+    "emailVerified": true,
+    "createdAt": "2026-10-14T13:22:00.119Z"
+  }
+]

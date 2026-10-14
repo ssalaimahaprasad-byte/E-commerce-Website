@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rev-sony-1",
+    "productId": "prod-sony-wh1000xm5",
+    "userId": "usr-admin",
+    "author": "Admin Customer",
+    "rating": 5,
+    "title": "Unbeatable active noise cancellation and sound!",
+    "comment": "I use these during flights and remote work. The silence is stunning, and the battery easily lasts a whole week of work.",
+    "date": "13 Oct 2026",
+    "verified": true,
+    "createdAt": "2026-10-13T12:00:00.000Z"
+  },
+  {
+    "id": "rev-levis-1",
+    "productId": "prod-fash-levis-511",
+    "userId": "usr-admin",
+    "author": "Admin Customer",
+    "rating": 5,
+    "title": "Super comfortable stretch denim",
+    "comment": "Classic 511 slim cut with just the right amount of stretch. Color stays fast after multiple washes.",
+    "date": "11 Oct 2026",
+    "verified": true,
+    "createdAt": "2026-10-11T16:00:00.000Z"
+  }
+]

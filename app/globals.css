@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --renzocart-nav: #172554;
+  --renzocart-primary: #3B82F6;
+  --renzocart-primary-hover: #2563EB;
+  --renzocart-bg: #F5F8FF;
+  --renzocart-card: #FFFFFF;
+  --renzocart-accent: #8B5CF6;
+  --renzocart-accent-hover: #7C3AED;
+}
+
+@layer base {
+  html,
+  body {
+    background-color: #F5F8FF;
+    color: #0F172A;
+    font-family: 'Noto Sans', 'Noto Sans Devanagari', 'Noto Sans Tamil', 'Noto Sans Malayalam', 'Noto Sans Kannada', 'Nirmala UI', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+  :focus-visible {
+    outline: 2px solid #3B82F6;
+    outline-offset: 1px;
+  }
+}
+
+@layer components {
+  /* Renzocart Modern Primary Action Buttons */
+  .btn-amazon-primary,
+  .btn-primary {
+    @apply inline-flex items-center justify-center rounded-lg bg-[#3B82F6] px-4 py-2 text-xs font-semibold text-white shadow-sm transition-all hover:bg-[#2563EB] hover:shadow-md active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-amazon-secondary,
+  .btn-accent {
+    @apply inline-flex items-center justify-center rounded-lg bg-[#8B5CF6] px-4 py-2 text-xs font-semibold text-white shadow-sm transition-all hover:bg-[#7C3AED] hover:shadow-md active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-amazon-light {
+    @apply inline-flex items-center justify-center rounded-lg bg-white px-3 py-1.5 text-xs font-medium text-[#172554] border border-[#CBD5E1] shadow-sm transition-all hover:bg-[#F8FAFC] hover:border-[#94A3B8] active:bg-[#F1F5F9] disabled:opacity-50;
+  }
+
+  /* Aliases for general buttons */
+  .btn {
+    @apply inline-flex items-center justify-center rounded-lg px-4 py-2 text-xs font-medium transition disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .input {
+    @apply w-full rounded-lg border border-[#CBD5E1] bg-white px-3 py-2 text-sm text-[#0F172A] shadow-inner outline-none transition focus:border-[#3B82F6] focus:ring-2 focus:ring-[#3B82F6]/20;
+  }
+  .card {
+    @apply rounded-xl border border-[#E2E8F0] bg-white p-5 shadow-sm transition-shadow hover:shadow-md;
+  }
+
+  /* Badges & Tags */
+  .badge-bestseller {
+    @apply inline-flex items-center rounded-md bg-[#8B5CF6] px-2 py-0.5 text-[11px] font-bold uppercase tracking-wide text-white shadow-sm;
+  }
+  .badge-choice {
+    @apply inline-flex items-center rounded-md bg-[#172554] px-2.5 py-0.5 text-xs font-semibold text-white shadow-sm;
+  }
+  .badge-deal {
+    @apply inline-flex items-center rounded-md bg-[#DC2626] px-2 py-0.5 text-xs font-bold text-white shadow-sm;
+  }
+  .prime-check {
+    @apply font-black text-[#3B82F6] italic tracking-tight text-xs;
+  }
+}
+
+/* Amazon scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #888;
+}

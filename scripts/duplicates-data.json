@@ -1,0 +1,637 @@
+[
+  {
+    "groupIndex": 1,
+    "photoId": "photo-1546435770-a3e426bf472b",
+    "url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 4,
+    "products": [
+      {
+        "id": "prod-sony-wh1000xm5",
+        "name": "Sony WH-1000XM5 Wireless Industry Leading Noise Canceling Headphones with Auto NC Optimizer, Crystal Clear Hands-Free Calling, Black",
+        "categoryId": "cat-electronics",
+        "brand": "Sony",
+        "desc": "The Sony WH-1000XM5 headphones rewrite the rules for distraction-free listening. 2 processors control 8 microphones for unprecedented noise cancellation and exceptional call quality. Newly developed 30mm carbon fiber driver unit delivers superlative sound quality with LDAC high-res wireless audio."
+      },
+      {
+        "id": "prod-accessories-5-yz9g",
+        "name": "Bose SoundLink Micro Bluetooth Speaker - Waterproof Outdoor Portable (Black)",
+        "categoryId": "cat-accessories",
+        "brand": "Bose",
+        "desc": "Crisp, balanced sound with unmatched bass for its size. Rugged tear-resistant silicone strap attaches anywhere."
+      },
+      {
+        "id": "prod-electronics-4-6sd7",
+        "name": "JBL Flip 6 Wireless Portable Bluetooth Speaker with Powerful Sound & Deep Bass (IP67)",
+        "categoryId": "cat-electronics",
+        "brand": "JBL",
+        "desc": "2-way speaker system designed to deliver loud, crystal clear, powerful sound with dual passive radiators."
+      },
+      {
+        "id": "prod-extra-6-mniv",
+        "name": "Sennheiser Accentum Plus Wireless Bluetooth Over-Ear Headphones (ANC, 50H Battery)",
+        "categoryId": "cat-electronics",
+        "brand": "Sennheiser",
+        "desc": "Sennheiser sound with acoustic transducer system, hybrid adaptive ANC, and fast charge."
+      }
+    ]
+  },
+  {
+    "groupIndex": 2,
+    "photoId": "photo-1590658268037-6bf12165a8df",
+    "url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-boat-airdopes-141",
+        "name": "boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds with 42H Playtime, Beast Mode ENx Tech, ASAP Charge, IWP, IPX4 Water Resistance (Bold Black)",
+        "categoryId": "cat-electronics",
+        "brand": "boAt",
+        "desc": "Lock into your rhythm with boAt Airdopes 141 TWS earbuds. Enjoy up to 42 hours of nonstop playback. Equipped with BEAST mode for low latency gaming and ENx tech for clear calling experience."
+      },
+      {
+        "id": "prod-extra-3-qqci",
+        "name": "OnePlus Bullets Wireless Z2 Bluetooth in-Ear Earphones with Mic (Magico Black)",
+        "categoryId": "cat-electronics",
+        "brand": "OnePlus",
+        "desc": "Massive 12.4mm bass drivers deliver deep, immersive sound with anti-distortion tech."
+      }
+    ]
+  },
+  {
+    "groupIndex": 3,
+    "photoId": "photo-1544244015-0df4b3ffc6b0",
+    "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-fire-tv-stick-4k",
+        "name": "Fire TV Stick 4K streaming device, supports Wi-Fi 6, Dolby Vision/Atmos, HDR10+, Alexa Voice Remote with TV controls",
+        "categoryId": "cat-devices",
+        "brand": "Amazon",
+        "desc": "Cinematic 4K streaming experience with support for Dolby Vision, HDR10+, and immersive Dolby Atmos audio. Stream more than a million movies and TV episodes from Netflix, Prime Video, Disney+ Hotstar, and more."
+      },
+      {
+        "id": "prod-computers-8-ttlw",
+        "name": "Apple iPad Air 11-inch (M2 Chip, Wi-Fi, 128GB) - Space Grey",
+        "categoryId": "cat-computers",
+        "brand": "Apple",
+        "desc": "Supercharged by the M2 chip with gorgeous Liquid Retina display, landscape 12MP front camera, and Apple Pencil Pro support."
+      }
+    ]
+  },
+  {
+    "groupIndex": 4,
+    "photoId": "photo-1695048133142-1a20484d2569",
+    "url": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-iphone-15-pro",
+        "name": "Apple iPhone 15 Pro (128 GB) - Natural Titanium | Titanium Design, A17 Pro Chip, 48MP Main Camera, Action Button, USB-C",
+        "categoryId": "cat-mobiles",
+        "brand": "Apple",
+        "desc": "Forged in titanium and featuring the groundbreaking A17 Pro chip, a customizable Action button, and a more versatile pro camera system with 48MP resolution and next-generation portraits."
+      },
+      {
+        "id": "prod-mobiles-1-cmvg",
+        "name": "Apple iPhone 15 (128 GB) - Black with Dynamic Island & 48MP Main Camera",
+        "categoryId": "cat-mobiles",
+        "brand": "Apple",
+        "desc": "Dynamic Island bubbles up alerts and Live Activities. All-new 48MP Main camera shoots in super-high resolution."
+      }
+    ]
+  },
+  {
+    "groupIndex": 5,
+    "photoId": "photo-1610945415295-d9bbf067e59c",
+    "url": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-samsung-s24-ultra",
+        "name": "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 12GB, 256GB Storage) | Galaxy AI, 200MP Camera, S Pen Included, Snapdragon 8 Gen 3",
+        "categoryId": "cat-mobiles",
+        "brand": "Samsung",
+        "desc": "Meet Galaxy S24 Ultra, the ultimate form of Galaxy Ultra with a new titanium exterior and a 6.8-inch flat display. Galaxy AI is here: Circle to Search with Google, Live Translate, Note Assist and Photo Assist."
+      },
+      {
+        "id": "prod-mobiles-2-hq27",
+        "name": "Samsung Galaxy S24 Ultra 5G (Titanium Gray, 12GB, 256GB Storage) with Galaxy AI",
+        "categoryId": "cat-mobiles",
+        "brand": "Samsung",
+        "desc": "Meet Galaxy S24 Ultra with Galaxy AI, featuring a titanium exterior, built-in S Pen, and 200MP camera system."
+      }
+    ]
+  },
+  {
+    "groupIndex": 6,
+    "photoId": "photo-1598327105666-5b89351aff97",
+    "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 3,
+    "products": [
+      {
+        "id": "prod-oneplus-12r",
+        "name": "OnePlus 12R (Cool Blue, 16GB RAM, 256GB Storage) | Snapdragon 8 Gen 2, 1.5K 120Hz ProXDR Display, 5500 mAh Battery, 100W SUPERVOOC",
+        "categoryId": "cat-mobiles",
+        "brand": "OnePlus",
+        "desc": "Driven by an extreme combination of performance and design, the OnePlus 12R delivers flagship-grade power, cutting-edge ProXDR display with 4th Gen LTPO, and industry-leading cooling system."
+      },
+      {
+        "id": "prod-mobiles-3-wfog",
+        "name": "OnePlus 12 5G (Silky Black, 16GB RAM, 512GB Storage) with 4th Gen Hasselblad Camera",
+        "categoryId": "cat-mobiles",
+        "brand": "OnePlus",
+        "desc": "Elite performance with Snapdragon 8 Gen 3, 2K 120Hz ProXDR display, and 100W SUPERVOOC fast charging."
+      },
+      {
+        "id": "prod-mobiles-9-ud97",
+        "name": "Nothing Phone (2a) 5G (White, 8GB RAM, 128GB Storage) with Glyph Interface",
+        "categoryId": "cat-mobiles",
+        "brand": "Nothing",
+        "desc": "Unique transparent back design with iconic Glyph Interface lights and dual 50MP rear camera sensors."
+      }
+    ]
+  },
+  {
+    "groupIndex": 7,
+    "photoId": "photo-1615663245857-ac93bb7c39e7",
+    "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-logitech-mx-master-3s",
+        "name": "Logitech MX Master 3S - Wireless Performance Mouse with Quiet Clicks, 8K DPI Sensor, MagSpeed Scrolling, Bluetooth/USB, Pale Gray",
+        "categoryId": "cat-computers",
+        "brand": "Logitech",
+        "desc": "An icon remastered. Feel every moment of your workflow with even more precision, tactility, and performance, thanks to Quiet Clicks and an 8,000 DPI track-on-glass sensor."
+      },
+      {
+        "id": "prod-extra-2-0in0",
+        "name": "Logitech G502 HERO High Performance Wired Gaming Mouse",
+        "categoryId": "cat-computers",
+        "brand": "Logitech",
+        "desc": "Hero 25K optical sensor with customizable RGB lighting and adjustable weights."
+      }
+    ]
+  },
+  {
+    "groupIndex": 8,
+    "photoId": "photo-1527443224154-c4a3942d3acf",
+    "url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-dell-4k-monitor-27",
+        "name": "Dell 27-inch 4K UHD (3840 x 2160) IPS Ultra-Thin Bezel Monitor, AMD FreeSync, HDR, Height/Tilt/Swivel/Pivot Adjustable Stand, HDMI & DP",
+        "categoryId": "cat-computers",
+        "brand": "Dell",
+        "desc": "Enjoy unrivaled clarity with stunning 4K UHD resolution. Three-sided ultrathin bezel design lets you see more with less distraction. Built-in dual 3W speakers and height adjustable stand."
+      },
+      {
+        "id": "prod-computers-7-wzly",
+        "name": "LG UltraGear 27-inch QHD Nano IPS Gaming Monitor, 165Hz (O/C 180Hz), 1ms",
+        "categoryId": "cat-computers",
+        "brand": "LG",
+        "desc": "Stunning Nano IPS color reproduction with 1ms response time, HDR400, and NVIDIA G-Sync compatible variable refresh rate."
+      }
+    ]
+  },
+  {
+    "groupIndex": 9,
+    "photoId": "photo-1584269600519-112d071b35e6",
+    "url": "https://images.unsplash.com/photo-1584269600519-112d071b35e6?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 4,
+    "products": [
+      {
+        "id": "prod-philips-air-fryer",
+        "name": "Philips Digital Air Fryer HD9252/90 with Rapid Air Technology, 4.1L (0.8kg), Touch Panel with 7 Pre-sets, Keep Warm Function (Black)",
+        "categoryId": "cat-home",
+        "brand": "Philips",
+        "desc": "Healthy cooking with Rapid Air technology. Philips brings the world’s No. 1 Airfryer to everyone’s home. Enjoy healthy food that’s crispy on the outside and tender on the inside with up to 90% less fat."
+      },
+      {
+        "id": "prod-home-and-kitchen-1-jhjo",
+        "name": "Prestige Omega Deluxe Granite Non-Stick 3-Piece Cookware Set (Fry Pan, Omni Tawa, Kadai)",
+        "categoryId": "cat-home",
+        "brand": "Prestige",
+        "desc": "5-layer non-stick German granite coating compatible with induction and gas cooktops. Dishwasher safe with 2-year warranty."
+      },
+      {
+        "id": "prod-home-and-kitchen-6-xa0x",
+        "name": "Hawkins Contura 3 Litre Hard Anodised Pressure Cooker with Stainless Steel Lid",
+        "categoryId": "cat-home",
+        "brand": "Hawkins",
+        "desc": "Curved body for easy stirring and viewing. Food cooks faster and browns beautifully with less oil."
+      },
+      {
+        "id": "prod-home-and-kitchen-7-pncu",
+        "name": "Solimo Stainless Steel Induction Bottom Dutch Oven with Glass Lid (24cm, 5 Litres)",
+        "categoryId": "cat-home",
+        "brand": "Solimo",
+        "desc": "Heavy-gauge stainless steel with encapsulated aluminium sandwich bottom for even heat distribution."
+      }
+    ]
+  },
+  {
+    "groupIndex": 10,
+    "photoId": "photo-1524805444758-089113d48a6d",
+    "url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 4,
+    "products": [
+      {
+        "id": "prod-fossil-grant-watch",
+        "name": "Fossil Grant Chronograph Analog Black Dial Men's Watch - FS4812 | Roman Numerals, Genuine Brown Leather Band, 50m Water Resistance",
+        "categoryId": "cat-fashion",
+        "brand": "Fossil",
+        "desc": "Modeled after vintage clocks, our Grant collection has a timeless appeal. Roman numerals with chronograph movement on a sleek black dial paired with rich brown leather strap."
+      },
+      {
+        "id": "prod-fashion-5-rb6q",
+        "name": "Titan Raga Viva Analog Rose Gold Dial Women's Quartz Watch with Crystal Accents",
+        "categoryId": "cat-fashion",
+        "brand": "Titan",
+        "desc": "Graceful rose gold bracelet strap with shimmering crystal indices and mineral glass protection."
+      },
+      {
+        "id": "prod-sports-7-ryis",
+        "name": "Garmin Forerunner 55 GPS Running Smartwatch with Heart Rate & Daily Suggested Workouts",
+        "categoryId": "cat-sports",
+        "brand": "Garmin",
+        "desc": "Easy-to-use GPS running watch that monitors heart rate at the wrist and tracks pace, distance, and intervals."
+      },
+      {
+        "id": "prod-extra-1-9x5f",
+        "name": "Apple Watch Series 9 GPS 45mm Midnight Aluminium Case",
+        "categoryId": "cat-accessories",
+        "brand": "Apple",
+        "desc": "Smarter, brighter, and mightier with S9 SiP, double tap gesture, and on-device Siri."
+      }
+    ]
+  },
+  {
+    "groupIndex": 11,
+    "photoId": "photo-1511499767150-a48a237f0083",
+    "url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-ray-ban-aviator",
+        "name": "Ray-Ban Unisex Polarized Aviator Sunglasses (Gold Frame, Green Classic G-15 Lens, 58mm) - RB3025 001/58",
+        "categoryId": "cat-fashion",
+        "brand": "Ray-Ban",
+        "desc": "Currently one of the most iconic sunglass models in the world, Ray-Ban Aviator Classic sunglasses were originally designed for U.S. aviators in 1937. Polarized lenses eliminate glare and provide 100% UV protection."
+      },
+      {
+        "id": "prod-extra-8-rb4n",
+        "name": "Ray-Ban Wayfarer Classic Polarized Black Sunglasses (RB2140)",
+        "categoryId": "cat-accessories",
+        "brand": "Ray-Ban",
+        "desc": "Since its design in 1952, Wayfarer gained popularity among celebrities and artists."
+      }
+    ]
+  },
+  {
+    "groupIndex": 12,
+    "photoId": "photo-1620916566398-39f1143ab7be",
+    "url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 3,
+    "products": [
+      {
+        "id": "prod-the-ordinary-niacinamide",
+        "name": "The Ordinary Niacinamide 10% + Zinc 1% Oil Control Serum (30ml) | Reduces Blemishes, Minimizes Pores & Evens Skin Tone",
+        "categoryId": "cat-beauty",
+        "brand": "The Ordinary",
+        "desc": "A high-strength vitamin and mineral blemish formula with 10% pure Niacinamide and 1% Zinc PCA to balance visible sebum activity and visibly brighten the look of dull skin."
+      },
+      {
+        "id": "prod-beauty-1-cjfh",
+        "name": "L'Oreal Paris Revitalift 1.5% Hyaluronic Acid Plumping Serum for Radiant Hydrated Skin - 30ml",
+        "categoryId": "cat-beauty",
+        "brand": "L'Oreal Paris",
+        "desc": "Lightweight, non-sticky hyaluronic acid serum that instantly hydrates and plumps skin by +42% in 2 weeks."
+      },
+      {
+        "id": "prod-beauty-7-gvpt",
+        "name": "Forest Essentials Deluxe Soundarya Radiance Cream with 24K Gold & SPF 25 (50g)",
+        "categoryId": "cat-beauty",
+        "brand": "Forest Essentials",
+        "desc": "Ayurvedic formulation that penetrates deep to restore firmness, elasticity, and luminous radiance with pure 24K gold bhasma."
+      }
+    ]
+  },
+  {
+    "groupIndex": 13,
+    "photoId": "photo-1621607512214-68297480165e",
+    "url": "https://images.unsplash.com/photo-1621607512214-68297480165e?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-philips-oneblade",
+        "name": "Philips OneBlade Hybrid Trimmer and Shaver QP2525/10 with 3 Trimming Combs, Dual-Sided Blade, Water Resistant for Wet & Dry Use",
+        "categoryId": "cat-beauty",
+        "brand": "Philips",
+        "desc": "Trim, edge, and shave any length of hair. The unique OneBlade technology integrates a fast-moving cutter (200x per second) with a dual protection system to give an efficient, comfortable shave on longer hairs without nicking skin."
+      },
+      {
+        "id": "prod-beauty-2-g4of",
+        "name": "Philips BT3231/15 Smart Beard Trimmer Series 3000 with PowerAdapt Sensor & 60 Min Run Time",
+        "categoryId": "cat-beauty",
+        "brand": "Philips",
+        "desc": "Lift & Trim system cuts 30% faster with self-sharpening titanium blades and 20 lock-in length settings."
+      }
+    ]
+  },
+  {
+    "groupIndex": 14,
+    "photoId": "photo-1544716278-ca5e3f4abd8c",
+    "url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 3,
+    "products": [
+      {
+        "id": "prod-atomic-habits",
+        "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear (Paperback)",
+        "categoryId": "cat-books",
+        "brand": "Random House",
+        "desc": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results."
+      },
+      {
+        "id": "prod-accessories-2-1i8t",
+        "name": "Spigen DuraSync 60W USB-C to USB-C Heavy Duty Braided Charging Cable (1.5m / 5ft)",
+        "categoryId": "cat-accessories",
+        "brand": "Spigen",
+        "desc": "Tested to withstand 30,000+ bends. Supports up to 60W Power Delivery charging and 480Mbps fast data syncing."
+      },
+      {
+        "id": "prod-accessories-4-sqer",
+        "name": "UGREEN Revodok 7-in-1 USB-C Hub Adapter with 4K@60Hz HDMI & 100W PD Pass-Through",
+        "categoryId": "cat-accessories",
+        "brand": "UGREEN",
+        "desc": "Transform your single USB-C port into a high-powered workstation hub supporting crisp 4K 60Hz video and 100W power delivery."
+      }
+    ]
+  },
+  {
+    "groupIndex": 15,
+    "photoId": "photo-1553062407-98eeb64c6a62",
+    "url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-fashion-7-zecs",
+        "name": "Wildcraft Turnaround 35L Water Resistant Travel & Laptop Backpack with Rain Cover",
+        "categoryId": "cat-fashion",
+        "brand": "Wildcraft",
+        "desc": "Engineered with triple-compartment organization, padded 15.6-inch laptop cradle, ergonomic back support, and rain poncho."
+      },
+      {
+        "id": "prod-accessories-6-xcho",
+        "name": "DailyObjects City Compact Vegan Leather Crossbody Messenger Sling Bag - Olive Green",
+        "categoryId": "cat-accessories",
+        "brand": "DailyObjects",
+        "desc": "Minimalist urban sling crafted from durable vegan leather with YKK water-repellent zippers and adjustable strap."
+      }
+    ]
+  },
+  {
+    "groupIndex": 16,
+    "photoId": "photo-1570222094114-d054a817e56b",
+    "url": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-home-and-kitchen-2-qavs",
+        "name": "Bajaj GX-1 500W Mixer Grinder with 3 Stainless Steel Jars & Overload Protector",
+        "categoryId": "cat-home",
+        "brand": "Bajaj",
+        "desc": "Reliable 500W Titan motor with 2-in-1 functional blades, easy grip handles, and 3-speed control with incher."
+      },
+      {
+        "id": "prod-extra-9-7mwi",
+        "name": "Prestige IRIS Plus 750 Watt Mixer Grinder with 4 Jars (3 Stainless Steel + Juicer)",
+        "categoryId": "cat-home",
+        "brand": "Prestige",
+        "desc": "Heavy duty 750W motor with all-round flow breaker jars and ergonomic handles."
+      }
+    ]
+  },
+  {
+    "groupIndex": 17,
+    "photoId": "photo-1556228720-195a672e8a03",
+    "url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-beauty-3-uj2r",
+        "name": "Minimalist SPF 50 PA++++ Broad Spectrum Sunscreen with Multi-Vitamins - 50g",
+        "categoryId": "cat-beauty",
+        "brand": "Minimalist",
+        "desc": "Photostable sunscreen with 4 very effective UV filters formulated with Niacinamide, Vitamin B5 and Vitamin F."
+      },
+      {
+        "id": "prod-beauty-6-jdz6",
+        "name": "Neutrogena Hydro Boost Water Gel Moisturiser with Hyaluronic Acid - 50g",
+        "categoryId": "cat-beauty",
+        "brand": "Neutrogena",
+        "desc": "Refreshing water gel formula with amino acids and electrolytes that delivers 72 hours of intense hydration."
+      }
+    ]
+  },
+  {
+    "groupIndex": 18,
+    "photoId": "photo-1522337360788-8b13dee7a37e",
+    "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-beauty-4-qs7m",
+        "name": "Maybelline New York Lash Sensational Sky High Waterproof Mascara - Very Black, 6ml",
+        "categoryId": "cat-beauty",
+        "brand": "Maybelline",
+        "desc": "Exclusive Flex Tower brush bends to volumize and extend every lash from root to tip. Infused with bamboo extract."
+      },
+      {
+        "id": "prod-extra-10-i0fg",
+        "name": "Maybelline New York Super Stay Matte Ink Liquid Lipstick - 80 Ruler, 5ml",
+        "categoryId": "cat-beauty",
+        "brand": "Maybelline",
+        "desc": "Intensely pigmented liquid matte formula with unique arrow precision applicator."
+      }
+    ]
+  },
+  {
+    "groupIndex": 19,
+    "photoId": "photo-1586201375761-83865001e31c",
+    "url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-grocery-2-rc0p",
+        "name": "Daawat Biryani Basmati Rice, 5kg - World's Longest Grains with Rich Aroma",
+        "categoryId": "cat-grocery",
+        "brand": "Daawat",
+        "desc": "Aged to perfection, cooked grains elongate up to 24mm without breaking or sticking, ideal for royal biryanis."
+      },
+      {
+        "id": "prod-grocery-6-82zn",
+        "name": "Tata Sampann Unpolished Toor Dal / Arhar Dal, 1kg - Rich in Natural Protein",
+        "categoryId": "cat-grocery",
+        "brand": "Tata Sampann",
+        "desc": "Wholesome unpolished lentils retaining wholesome nutrients and original nutty flavor, certified free from chemicals."
+      }
+    ]
+  },
+  {
+    "groupIndex": 20,
+    "photoId": "photo-1549007994-cb92caebd54b",
+    "url": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-grocery-4-dx3o",
+        "name": "Ferrero Rocher Moments Premium Hazelnut Chocolates Gift Box, 24 Pieces (300g)",
+        "categoryId": "cat-grocery",
+        "brand": "Ferrero Rocher",
+        "desc": "Whole crunchy hazelnut wrapped in creamy filling, encased in a crispy wafer shell coated in milk chocolate."
+      },
+      {
+        "id": "prod-extra-7-n4un",
+        "name": "Cadbury Celebrations Rich Dry Fruit Assorted Chocolate Gift Pack, 400g",
+        "categoryId": "cat-grocery",
+        "brand": "Cadbury",
+        "desc": "Rich chocolate coated almonds and cashews packaged in an elegant festive gift box."
+      }
+    ]
+  },
+  {
+    "groupIndex": 21,
+    "photoId": "photo-1514432324607-a09d9b4aefdd",
+    "url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-grocery-5-pkh7",
+        "name": "Nescafe Gold Blend Premium Rich & Smooth Roasted Arabica Instant Coffee - 200g Glass Jar",
+        "categoryId": "cat-grocery",
+        "brand": "Nescafe",
+        "desc": "Golden roasted Arabica beans ground 10 times finer to unlock hidden aromas for an authentic cafe-style cup."
+      },
+      {
+        "id": "prod-grocery-7-jnan",
+        "name": "Kellogg's Real Almond & Honey Muesli Crunchy Breakfast Cereal, 1kg",
+        "categoryId": "cat-grocery",
+        "brand": "Kellogg's",
+        "desc": "Power-packed breakfast loaded with real California almonds, delicious honey, and 5 nutritious multi-grains."
+      }
+    ]
+  },
+  {
+    "groupIndex": 22,
+    "photoId": "photo-1518091043644-c1d4457512c6",
+    "url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-sports-2-xmpu",
+        "name": "Cosco Torino Hand-Stitched FIFA Standard Size 5 Football for Turf & Grass",
+        "categoryId": "cat-sports",
+        "brand": "Cosco",
+        "desc": "High performance synthetic leather outer with multi-layer polyester backing for true flight and zero water absorption."
+      },
+      {
+        "id": "prod-sports-6-lf3b",
+        "name": "Nivia Storm Football Rubber Molded Ball (Size 5, Multicolor)",
+        "categoryId": "cat-sports",
+        "brand": "Nivia",
+        "desc": "High abrasion resistance rubber construction suitable for hard surfaces, school fields, and wet weather conditions."
+      }
+    ]
+  },
+  {
+    "groupIndex": 23,
+    "photoId": "photo-1531415074868-036b107e775a",
+    "url": "https://images.unsplash.com/photo-1531415074868-036b107e775a?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-sports-5-vdm4",
+        "name": "SG Savage Edition Kashmir Willow Full Size Cricket Bat with Padded Cover",
+        "categoryId": "cat-sports",
+        "brand": "SG",
+        "desc": "Traditionally shaped with thick massive edges and curved blade for powerful strokes across all formats."
+      },
+      {
+        "id": "prod-extra-4-f8lg",
+        "name": "Cosco Light Tennis Cricket Ball Pack of 6 Heavy Duty Red Balls",
+        "categoryId": "cat-sports",
+        "brand": "Cosco",
+        "desc": "Durable interlocking felt fibers for consistent bounce on asphalt and turf."
+      }
+    ]
+  },
+  {
+    "groupIndex": 24,
+    "photoId": "photo-1566576912321-d58ddd7a6088",
+    "url": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-toys-3-rfyz",
+        "name": "Nerf Elite 2.0 Commander RD-6 Blaster with 6-Dart Rotating Drum & 12 Official Darts",
+        "categoryId": "cat-toys",
+        "brand": "Nerf",
+        "desc": "Customizable blaster with 3 tactical rails and barrel and stock attachment points. Fires darts up to 90 feet (27 meters)."
+      },
+      {
+        "id": "prod-toys-6-6a0r",
+        "name": "Play-Doh Modeling Compound 8-Pack Non-Toxic Cans of Creative Dough",
+        "categoryId": "cat-toys",
+        "brand": "Play-Doh",
+        "desc": "Squish, shape, roll, and create limitless wonders with soft non-toxic dough compound in 8 reusable airtight cans."
+      }
+    ]
+  },
+  {
+    "groupIndex": 25,
+    "photoId": "photo-1596461404969-9ae70f2830c1",
+    "url": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-toys-7-r2by",
+        "name": "Fisher-Price Brilliant Basics Rock-a-Stack Stacking Rings for Babies",
+        "categoryId": "cat-toys",
+        "brand": "Fisher-Price",
+        "desc": "Classic rocking base with 5 colorful rings to grasp, shake, and stack, helping develop eye-hand coordination."
+      },
+      {
+        "id": "prod-extra-5-p7ii",
+        "name": "Pampers All round Protection Baby Diaper Pants, Large (L) 64 Count",
+        "categoryId": "cat-toys",
+        "brand": "Pampers",
+        "desc": "Anti-rash lotion with Aloe Vera and magic gel layer provides up to 12 hours absorption."
+      }
+    ]
+  },
+  {
+    "groupIndex": 26,
+    "photoId": "photo-1609592424361-b51f084fa173",
+    "url": "https://images.unsplash.com/photo-1609592424361-b51f084fa173?w=800&auto=format&fit=crop&q=80",
+    "totalProducts": 2,
+    "products": [
+      {
+        "id": "prod-accessories-1-is65",
+        "name": "Anker PowerCore 20,000mAh 20W PD Ultra-High Capacity Portable Charger with PowerIQ 3.0",
+        "categoryId": "cat-accessories",
+        "brand": "Anker",
+        "desc": "Colossal 20,000mAh capacity provides 4+ charges for iPhone 15 and 3+ charges for Galaxy S24 with rapid 20W output."
+      },
+      {
+        "id": "prod-accessories-7-pmwt",
+        "name": "Belkin 3-in-1 MagSafe Fast Wireless Charging Stand 15W for iPhone, Apple Watch & AirPods",
+        "categoryId": "cat-accessories",
+        "brand": "Belkin",
+        "desc": "Architectural stainless-steel charging stand delivers ultra-fast 15W magnetic wireless charging to all Apple gear simultaneously."
+      }
+    ]
+  }
+]

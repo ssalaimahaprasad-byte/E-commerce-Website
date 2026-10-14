@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ret-sample-1",
+    "orderId": "ord-demo-102",
+    "orderNumber": "RC-402-11823-904",
+    "productId": "prod-fash-levis-511",
+    "productName": "Levi's Men's 511 Slim Fit Stretch Dark Wash Denim Jeans",
+    "userId": "usr-admin",
+    "customerEmail": "admin@novacart.test",
+    "reason": "Size too small / Fit issue",
+    "comments": "Waist size 32 is slightly tighter than standard. Requesting return and refund.",
+    "status": "APPROVED",
+    "refundStatus": "PROCESSING",
+    "refundAmountMinor": 239900,
+    "refundTxRef": "REF-RC-983141",
+    "createdAt": "2026-10-12T09:15:00.000Z",
+    "updatedAt": "2026-10-13T14:30:00.000Z"
+  }
+]
